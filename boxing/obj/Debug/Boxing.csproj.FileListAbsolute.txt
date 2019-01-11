@@ -1,0 +1,8 @@
+D:\Extra\2015_Projects\Projects\Training_Materials\boxing\bin\Debug\boxing.exe.config
+D:\Extra\2015_Projects\Projects\Training_Materials\boxing\bin\Debug\boxing.exe
+D:\Extra\2015_Projects\Projects\Training_Materials\boxing\bin\Debug\boxing.pdb
+D:\Extra\2015_Projects\Projects\Training_Materials\boxing\obj\Debug\boxing.exe
+D:\Extra\2015_Projects\Projects\Training_Materials\boxing\obj\Debug\boxing.pdb
+D:\Extra\2015_Projects\Projects\Training_Materials\boxing\bin\Debug\Enum.exe
+D:\Extra\2015_Projects\Projects\Training_Materials\boxing\bin\Debug\Enum.pdb
+D:\Extra\2015_Projects\Projects\Training_Materials\boxing\obj\Debug\Boxing.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+c:\users\sivagami.palani\documents\visual studio 2015\Projects\Training_Materials\Linq\bin\Debug\Linq.exe.config
+c:\users\sivagami.palani\documents\visual studio 2015\Projects\Training_Materials\Linq\bin\Debug\Linq.exe
+c:\users\sivagami.palani\documents\visual studio 2015\Projects\Training_Materials\Linq\bin\Debug\Linq.pdb
+c:\users\sivagami.palani\documents\visual studio 2015\Projects\Training_Materials\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache
+c:\users\sivagami.palani\documents\visual studio 2015\Projects\Training_Materials\Linq\obj\Debug\Linq.exe
+c:\users\sivagami.palani\documents\visual studio 2015\Projects\Training_Materials\Linq\obj\Debug\Linq.pdb
+D:\Extra\2015_Projects\Projects\Training_Materials\Linq\bin\Debug\Linq.exe.config
+D:\Extra\2015_Projects\Projects\Training_Materials\Linq\bin\Debug\Linq.exe
+D:\Extra\2015_Projects\Projects\Training_Materials\Linq\bin\Debug\Linq.pdb
+D:\Extra\2015_Projects\Projects\Training_Materials\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache
+D:\Extra\2015_Projects\Projects\Training_Materials\Linq\obj\Debug\Linq.exe
+D:\Extra\2015_Projects\Projects\Training_Materials\Linq\obj\Debug\Linq.pdb

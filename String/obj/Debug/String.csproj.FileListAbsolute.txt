@@ -1,0 +1,6 @@
+D:\Extra\2015_Projects\Projects\Training_Materials\String\bin\Debug\String.exe.config
+D:\Extra\2015_Projects\Projects\Training_Materials\String\obj\Debug\String.csprojResolveAssemblyReference.cache
+D:\Extra\2015_Projects\Projects\Training_Materials\String\bin\Debug\String.exe
+D:\Extra\2015_Projects\Projects\Training_Materials\String\bin\Debug\String.pdb
+D:\Extra\2015_Projects\Projects\Training_Materials\String\obj\Debug\String.exe
+D:\Extra\2015_Projects\Projects\Training_Materials\String\obj\Debug\String.pdb

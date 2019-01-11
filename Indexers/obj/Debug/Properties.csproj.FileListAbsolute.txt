@@ -1,0 +1,12 @@
+c:\users\sivagami.palani\documents\visual studio 2015\Projects\Training_Materials\Indexers\obj\Debug\Properties.csprojResolveAssemblyReference.cache
+c:\users\sivagami.palani\documents\visual studio 2015\Projects\Training_Materials\Indexers\bin\Debug\Properties.exe.config
+c:\users\sivagami.palani\documents\visual studio 2015\Projects\Training_Materials\Indexers\bin\Debug\Properties.exe
+c:\users\sivagami.palani\documents\visual studio 2015\Projects\Training_Materials\Indexers\bin\Debug\Properties.pdb
+c:\users\sivagami.palani\documents\visual studio 2015\Projects\Training_Materials\Indexers\obj\Debug\Properties.exe
+c:\users\sivagami.palani\documents\visual studio 2015\Projects\Training_Materials\Indexers\obj\Debug\Properties.pdb
+D:\Extra\2015_Projects\Projects\Training_Materials\Indexers\bin\Debug\Properties.exe.config
+D:\Extra\2015_Projects\Projects\Training_Materials\Indexers\bin\Debug\Properties.exe
+D:\Extra\2015_Projects\Projects\Training_Materials\Indexers\bin\Debug\Properties.pdb
+D:\Extra\2015_Projects\Projects\Training_Materials\Indexers\obj\Debug\Properties.csprojResolveAssemblyReference.cache
+D:\Extra\2015_Projects\Projects\Training_Materials\Indexers\obj\Debug\Properties.exe
+D:\Extra\2015_Projects\Projects\Training_Materials\Indexers\obj\Debug\Properties.pdb
